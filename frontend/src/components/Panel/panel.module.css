@@ -1,0 +1,12 @@
+.btn {
+    width: 150px;
+    height: 50px;
+}
+.btn:hover {
+    cursor: pointer;
+}
+
+.panel__container {
+    float: right;
+    padding: 1.7rem;
+}

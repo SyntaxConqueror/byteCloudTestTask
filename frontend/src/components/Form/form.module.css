@@ -1,0 +1,10 @@
+.textForm {
+    width: 100%;
+    resize: none;
+    font-size: 1.2rem;
+    padding: .5rem;
+}
+p {
+    padding-bottom: .5rem;
+}
+
